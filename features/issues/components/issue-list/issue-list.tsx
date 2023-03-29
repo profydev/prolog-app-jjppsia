@@ -54,8 +54,8 @@ const PaginationButton = styled.button`
 `;
 
 const PageInfo = styled.div`
-  color: ${color("gray", 300)};
-  ${textFont("sm", "regular")}
+  color: ${color("gray", 700)};
+  ${textFont("sm", "medium")}
 `;
 
 const PageNumber = styled.span`
